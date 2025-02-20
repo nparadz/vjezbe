@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slika i tekst</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .container {
+            display: flex;
+            align-items: flex-start;
+        }
+
+        .container img {
+            width: 30%;
+            margin-right: 1%;
+        }
+
+        .text {
+            width: 68%;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Seamaster Automatic Chronograph Men's Watch</h1>
+
+    <div class="container">
+        <img src="watch.jpg" alt="Seamaster Watch">
+        <div class="text">
+            <p>Stainless steel case with a stainless steel bracelet. Uni-directional rotating silver-tone stainless steel bezel with a black ceramic top ring. Black dial with luminous skeleton hands and dot hour markers...</p>
+        </div>
+    </div>
+
+</body>
+</html>

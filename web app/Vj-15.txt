@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stranica s linkom</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        a {
+            color: green;
+            text-decoration: none;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Dobrodošli na moju stranicu</h1>
+
+</body>
+</html>

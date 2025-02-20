@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Početna stranica web stranice">
+    <meta name="author" content="Natali Paradžik">
+    <title>Početna stranica</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        img {
+            width: 80px;
+            height: auto;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dobrodošli na moju web stranicu!</h1>
+    
+    <div>
+        <p>Lorem ipsum dolor <strong style="color:red;">sit</strong> amet, consectetur adipiscing elit.</p>
+        <p>Sed volutpat urna <strong style="color:red;">vitae</strong> lorem facilisis, sed vehicula magna rutrum.</p>
+    </div>
+    
+    <p>Maecenas <strong style="color:red;">vitae</strong> nibh massa.</p>
+    <p>Ut finibus non <strong style="color:red;">sit</strong> nec ultricies.</p>
+    
+    <footer>
+        <p>Copyright © Natali Paradžik | <a href="https://github.com/nparadz/vjezbe" target="_blank">Github</a> | Vjezbe. All rights reserved.</p>
+    </footer>
+</body>
+</html>

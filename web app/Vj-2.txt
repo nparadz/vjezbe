@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Početna stranica web stranice">
+    <meta name="author" content="Vaše ime">
+    <title>Početna stranica</title>
+</head>
+<body>
+    <h1>Dobrodošli na moju web stranicu!</h1>
+    <h2>Otkrijte svijet web razvoja</h2>
+    <p>Web razvoj je fascinantno područje koje omogućava kreiranje vizualno atraktivnih i funkcionalnih stranica.</p>
+    <p>Uz HTML, CSS i JavaScript, možete izraditi moderne web stranice koje će privući pažnju korisnika i pružiti im sjajno iskustvo.</p>
+    <img src="https://www.example.com/images/sample.jpg" alt="Primjer slike s apsolutnom putanjom">
+    <img src="images/local-image.jpg" alt="Primjer slike s relativnom putanjom">
+</body>
+</html>

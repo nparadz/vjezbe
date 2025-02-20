@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Najnovije vijesti iz Hrvatske i svijeta">
+    <meta name="author" content="Vaše ime">
+    <title>Najnovije vijesti</title>
+</head>
+<body>
+    <h1>Najnovije vijesti</h1>
+    <h2>Europski čelnici dogovorili veća ulaganja u obranu</h2>
+    <p>Europski čelnici jednoglasno su se složili o potrebi za većim ulaganjima u obranu tijekom samita u Parizu. "Moramo biti spremni", istaknuto je na sastanku.</p>
+    <p>Ova odluka dolazi u svjetlu recentnih globalnih događaja i potrebi za jačanjem sigurnosnih mjera unutar Europske unije.</p>
+</body>
+</html>

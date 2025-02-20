@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Početna stranica web stranice">
+    <meta name="author" content="Vaše ime">
+    <title>Početna stranica</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dobrodošli na moju web stranicu!</h1>
+    <h2>Popis mobitela</h2>
+    <table>
+        <tr>
+            <th>Samsung</th>
+            <th>Apple</th>
+            <th>Huawei</th>
+            <th>Panasonic</th>
+        </tr>
+        <tr>
+            <td>Galaxy A3</td>
+            <td>iPhone 6</td>
+            <td>Holly 4 Plus</td>
+            <td>Elluga Ray 500</td>
+        </tr>
+        <tr>
+            <td>Galaxy S4</td>
+            <td>iPhone 7</td>
+            <td>Mate 10 Lite</td>
+            <td>Elluga Ray 700</td>
+        </tr>
+        <tr>
+            <td>Galaxy S5</td>
+            <td>iPhone 8</td>
+            <td>Mate 10 Pro</td>
+            <td>Elluga I4</td>
+        </tr>
+        <tr>
+            <td>Galaxy S6</td>
+            <td>iPhone 8 Plus</td>
+            <td>Enjoy 7S</td>
+            <td>P99</td>
+        </tr>
+        <tr>
+            <td>Galaxy S9</td>
+            <td>iPhone X</td>
+            <td>Nova 2S</td>
+            <td>Elluga A4</td>
+        </tr>
+    </table>
+</body>
+</html>

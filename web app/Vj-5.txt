@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Početna stranica web stranice">
+    <meta name="author" content="Vaše ime">
+    <title>Početna stranica</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        img {
+            width: 80px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dobrodošli na moju web stranicu!</h1>
+    <h2>Popis mobitela</h2>
+    <table>
+        <tr>
+            <th>Samsung</th>
+            <th>Apple</th>
+        </tr>
+        <tr>
+            <td>
+                <figure>
+                    <a href="images/galaxy_s8_large.jpg" target="_blank">
+                        <img src="images/galaxy_s8.jpg" alt="Galaxy S8">
+                    </a>
+                    <figcaption>Galaxy S8</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <a href="images/iphone9_large.jpg" target="_blank">
+                        <img src="images/iphone9.jpg" alt="iPhone 9">
+                    </a>
+                    <figcaption>iPhone 9</figcaption>
+                </figure>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <figure>
+                    <a href="images/galaxy_s9_large.jpg" target="_blank">
+                        <img src="images/galaxy_s9.jpg" alt="Galaxy S9">
+                    </a>
+                    <figcaption>Galaxy S9</figcaption>
+                </figure>
+            </td>
+            <td>
+                <figure>
+                    <a href="images/iphoneX_large.jpg" target="_blank">
+                        <img src="images/iphoneX.jpg" alt="iPhone X">
+                    </a>
+                    <figcaption>iPhone X</figcaption>
+                </figure>
+            </td>
+        </tr>
+    </table>
+    <p>Više informacija možete pronaći na <a href="https://gadgets.ndtv.com/mobiles" target="_blank">gadgets.ndtv.com/mobiles</a>.</p>
+</body>
+</html>

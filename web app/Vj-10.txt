@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Početna stranica web stranice">
+    <meta name="author" content="Natali Paradžik">
+    <title>Početna stranica</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+        img {
+            width: 80px;
+            height: auto;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dobrodošli na moju web stranicu!</h1>
+    
+    <div>
+        <p>Lorem ipsum dolor <strong style="color:red;">sit</strong> amet, consectetur adipiscing elit.</p>
+        <p>Sed volutpat urna <strong style="color:red;">vitae</strong> lorem facilisis, sed vehicula magna rutrum.</p>
+    </div>
+    
+    <p>Maecenas <strong style="color:red;">vitae</strong> nibh massa.</p>
+    <p>Ut finibus non <strong style="color:red;">sit</strong> nec ultricies.</p>
+    
+    <h2>Video sadržaj</h2>
+    <video width="600" controls>
+        <source src="video/sample.mp4" type="video/mp4">
+        Vaš preglednik ne podržava HTML5 video element.
+    </video>
+    
+    <h2>Youtube video</h2>
+    <iframe width="600" height="350" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+    
+    <footer>
+        <p>Copyright © Natali Paradžik | <a href="https://github.com/nparadz/vjezbe" target="_blank">Github</a> | Vjezbe. All rights reserved.</p>
+        <p><a href="https://www.flaticon.com/free-icons/favicon" title="favicon icons">Favicon icons created by Freepik - Flaticon</a></p>
+    </footer>
+</body>
+</html>
